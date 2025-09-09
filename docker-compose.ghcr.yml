@@ -1,0 +1,5 @@
+services:
+  app:
+    image: ghcr.io/askau2003/spring-ghcr:latest
+    ports:
+      - "8090:8080"
